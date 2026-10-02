@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2d46d6ba08.pbstifr.cn/sitemap.xml
